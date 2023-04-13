@@ -1,0 +1,1 @@
+C's argc and argv are command-line arguments that allow a program to receive input from the user at runtime, with argc indicating the number of arguments provided, and argv being an array of strings containing the arguments themselves.
