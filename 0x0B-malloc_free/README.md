@@ -1,2 +1,0 @@
-malloc() is a function in C that stands for memory allocation. It is used to allocate a block of memory of a specified size in the heap. This block of memory can be used for any purpose within the program.
-free() is a function in C that is used to deallocate the memory that was previously allocated by malloc(). When free() is called, the block of memory that was previously allocated is released back to the system, and can be used for other purposes.

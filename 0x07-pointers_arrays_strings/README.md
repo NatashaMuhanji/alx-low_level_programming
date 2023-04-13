@@ -1,7 +1,0 @@
-A C - Pointer to Pointer is a pointer variable that stores the address of another pointer variable. It is commonly used in situations where a function needs to modify a pointer passed as an argument. By passing a pointer to a pointer, the function can modify the original pointer, rather than just a copy of it. This allows for more flexible and efficient memory management.
-
-C – Pointer to Pointer is a concept in C programming where a pointer variable can be used to store the address of another pointer variable. This technique is commonly used in dynamic memory allocation, where the memory size required is not known at compile time. By using a pointer to a pointer, it becomes possible to create a dynamically sized array of pointers, which can then be used to allocate memory as needed.
-
-Multi-dimensional Arrays in C are arrays that have more than one dimension. In C programming, multi-dimensional arrays are typically used to represent tables or matrices of data. The most common type of multi-dimensional array is the two-dimensional array, which is often used to represent images or other two-dimensional data structures.
-
-Two-dimensional (2D) arrays in C programming are arrays that have two dimensions, or axes. They are often used to represent tables, grids, and other two-dimensional data structures. In C, 2D arrays are typically implemented as arrays of arrays, where each element of the outer array is itself an array of elements. The elements of the outer array are called rows, and the elements of the inner arrays are called columns.
