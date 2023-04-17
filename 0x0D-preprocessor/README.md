@@ -1,0 +1,1 @@
+Preprocessors in C are programs that perform text manipulations on the source code before the actual compilation, allowing for conditional compilation, macro expansions, file inclusion, and other operations.
