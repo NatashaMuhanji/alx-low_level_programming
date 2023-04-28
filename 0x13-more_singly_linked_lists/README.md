@@ -1,0 +1,1 @@
+A singly linked list is a data structure in computer science that consists of a sequence of nodes, each containing a value and a pointer to the next node, which allows for efficient insertion and deletion of elements at the beginning or end of the list.
