@@ -14,7 +14,7 @@ int create_file(const char *filename, char *text_content);
 int append_text_to_file(const char *filename, char *text_content);
 
 /**
- * @brief The identifier field of the ELF header
+ * @brief Structure representing the ELF header
  */
 
 void check_elf(unsigned char *e_ident);
